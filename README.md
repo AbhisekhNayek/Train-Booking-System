@@ -32,8 +32,8 @@ An interactive train seat reservation system built with **React**, designed for 
 ### Steps to Run Locally  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-repo/train-seat-reservation.git  
-   cd train-seat-reservation  
+   git clone https://github.com/AbhisekhNayek/Train-Booking-System.git
+   cd Train-Booking-System  
    ```  
 2. Install dependencies:  
    ```bash  
@@ -41,14 +41,14 @@ An interactive train seat reservation system built with **React**, designed for 
    ```  
 3. Start the application:  
    ```bash  
-   npm start  
+   npm run dev
    ```  
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.  
 
 ---
 
 ## 🌐 Hosted URL  
-[Click here to access the live application]().  
+[Click here to access the live application](https://train-booking-system-cyan.vercel.app/).  
 
 ---
 
