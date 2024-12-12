@@ -32,8 +32,8 @@ An interactive train seat reservation system built with **React**, designed for 
 ### Steps to Run Locally  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-repo/train-seat-reservation.git  
-   cd train-seat-reservation  
+   git clone https://github.com/AbhisekhNayek/Train-Booking-System.git
+   cd Train-Booking-System  
    ```  
 2. Install dependencies:  
    ```bash  
