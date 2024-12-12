@@ -41,7 +41,7 @@ An interactive train seat reservation system built with **React**, designed for 
    ```  
 3. Start the application:  
    ```bash  
-   npm start  
+   npm run dev
    ```  
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.  
 
